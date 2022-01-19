@@ -1,0 +1,7 @@
+Class Name: Get_Event
+
+Responsibilities:
+* Gets information about events on the UofT website based on given keywords and returns to EventManager
+
+Collaborators:
+* EventManager

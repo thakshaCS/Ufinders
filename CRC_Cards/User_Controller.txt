@@ -1,0 +1,8 @@
+Class Name: User_Controller
+
+Responsibilities:
+* Reads the password section of a user .txt file
+* Reads the specific Journal file path of each user
+
+Collaborators:
+* User_UI

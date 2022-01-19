@@ -1,0 +1,8 @@
+Class Name: Item
+
+Responsibilities:
+* Contains the user's information
+* Description of the item
+* Contains password in order to delete the item from the market
+
+Collaborators:

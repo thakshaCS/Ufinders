@@ -1,0 +1,10 @@
+Class Name: MakeDeleteEvent
+
+Responsibilities:
+* Adds events to calendar database
+* Deletes events
+* Retrieves single or all events from a user
+
+Collaborators:
+* CalendarDatabase
+* Event

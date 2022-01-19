@@ -1,0 +1,13 @@
+Class Name: Calendar
+
+Responsibilities:
+* Displays Calendar_Database
+* Delete event
+* Add event %
+* Gives option to choose the event the user wants to be an alarm
+* Gives the user option to remove the alarm %
+
+Collaborators:
+* Calendar_Database
+* Event_Manager
+* Alarm_Maker

@@ -1,0 +1,17 @@
+Class Name: Journal
+
+Responsibilities:
+* Stores journal entries
+* delte after
+
+
+
+
+
+
+
+
+
+
+
+

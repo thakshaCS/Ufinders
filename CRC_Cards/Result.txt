@@ -1,0 +1,8 @@
+Class Name: Result
+
+Responsibilities:
+* Allows user to view items from Sorting
+* Gives option to delete items or exit search
+
+Collaborators:
+* User-controls

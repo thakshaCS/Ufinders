@@ -1,0 +1,9 @@
+Class Name: JournalEntryUI
+
+Responsibilities:
+* Shows the journal entry the user wants to view
+* Closes the journal entry
+
+Collaborators:
+* JournalController
+

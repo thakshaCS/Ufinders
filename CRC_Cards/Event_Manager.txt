@@ -1,0 +1,13 @@
+Class Name: EventManager
+
+Responsibilities:
+* Tells MakeDeleteEvent to add an event to the calendar
+* Deletes event by calling MakeDeleteEvent
+* Retrieves events, whether single or all, through MakeDeleteEvent
+* Tells GetEvent to find events from the UofT website by keyword.
+* Loads all a user's events from their database by adding each of them through MakeDeleteEvent.
+
+Collaborators:
+* MakeDeleteEvent
+* Event
+

@@ -1,0 +1,8 @@
+Class Name: User
+
+Responsibilities:
+* User's ID
+* Name
+* Course
+* Stores calendar
+
